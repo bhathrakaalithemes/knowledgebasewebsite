@@ -1,1 +1,1 @@
-# knowledgebasewebsite
+# knowledgebasewebsite for the theme
